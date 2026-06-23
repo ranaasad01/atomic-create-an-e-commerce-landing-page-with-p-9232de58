@@ -406,7 +406,7 @@ export default function HomePage() {
               >
                 Objects worth
                 <br />
-                <span className="text-indigo-600">living with.</span>
+                <span className="text-indigo-600">Curated for the discerning eye. Lumière brings together the world's finest artisan goods — each piece chosen for its craft and its story</span>
               </motion.h1>
 
               <motion.p
