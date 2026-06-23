@@ -508,8 +508,7 @@ export default function HomePage() {
                   className="flex flex-col items-start gap-3"
                 >
                   <div className="w-10 h-10 rounded-xl bg-indigo-50 flex items-center justify-center">
-                    <Icon size={20} className="text-indigo-600" />
-                  </div>
+                    <Icon size={20} className="text-indigo-600" />Complimentary shipping on all orders over $75. Delivered in 3 business days</div>
                   <div>
                     <h3 className="font-semibold text-slate-900 text-sm mb-1">{vp.title}</h3>
                     <p className="text-sm text-slate-500 leading-relaxed">{vp.description}</p>
